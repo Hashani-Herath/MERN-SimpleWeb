@@ -13,6 +13,6 @@ A full-stack e-commerce website built using the **MERN** stack (MongoDB, Express
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com//yourrepo.git
+git clone https://github.com/Hashani-Herath/MERN-SimpleWeb.git
 cd yourrepo
 
